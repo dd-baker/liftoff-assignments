@@ -9,11 +9,11 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* ! [Front Page] (/images/UserPage.png)
-* ! [Front Page] (/images/UserPage.png)
-* ! [Front Page] (/images/ToolPage.png)
-* ! [Front Page] (/images/SearchPage.png)
-* ! [Front Page] (/images/LearningPage.png)
+* Front Page - https://github.com/dd-baker/liftoff-assignments/blob/master/P3-Project_Planning/images/FrontPage.png
+* User Page - https://github.com/dd-baker/liftoff-assignments/blob/master/P3-Project_Planning/images/UserPage.png
+* Tool Page - https://github.com/dd-baker/liftoff-assignments/blob/master/P3-Project_Planning/images/ToolPage.png
+* Search Page - https://github.com/dd-baker/liftoff-assignments/blob/master/P3-Project_Planning/images/SearchPage.png
+* Learning Page - https://github.com/dd-baker/liftoff-assignments/blob/master/P3-Project_Planning/images/LearningPage.png
 
 ### Project Tracker
 
